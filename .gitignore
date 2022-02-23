@@ -19,6 +19,8 @@
 
 # RStudio files
 .Rproj.user/
+*clean_cache/
+*clean_files/
 
 # produced vignettes
 vignettes/*.html

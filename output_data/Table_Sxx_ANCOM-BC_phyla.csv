@@ -1,0 +1,17 @@
+﻿Phylum,W,p_val,q_val
+Chloroflexi,126.74,<0.001,<0.001
+Acidobacteria,96.08,<0.001,<0.001
+Armatimonadetes,79.68,<0.001,<0.001
+Bacteroidetes,70.71,<0.001,<0.001
+Thaumarchaeota,47.05,<0.001,<0.001
+Gemmatimonadetes,41.55,<0.001,<0.001
+Planctomycetes,36.45,<0.001,<0.001
+WPS-2,35.77,<0.001,<0.001
+Deinococcus-Thermus,35.06,<0.001,<0.001
+Firmicutes,25.09,<0.001,<0.001
+Euryarchaeota,25,<0.001,<0.001
+Verrucomicrobia,14.59,<0.001,<0.001
+Proteobacteria,14.58,0.01,0.06
+Cyanobacteria,14.06,<0.001,<0.001
+Actinobacteria,4.71,0.64,1
+Epsilonbacteraeota,2.82,<0.001,<0.001
